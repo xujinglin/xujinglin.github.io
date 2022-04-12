@@ -1,0 +1,9 @@
+@inproceedings{xu2020deep,
+  title={Deep embedded complementary and interactive information for multi-view classification},
+  author={Xu, Jinglin and Li, Wenbin and Liu, Xinwang and Zhang, Dingwen and Liu, Ji and Han, Junwei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={04},
+  pages={6494--6501},
+  year={2020}
+}

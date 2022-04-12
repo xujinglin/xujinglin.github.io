@@ -1,0 +1,7 @@
+@inproceedings{xu2021joint,
+  title={Joint multi-view 2D convolutional neural networks for 3D object classification},
+  author={Xu, Jinglin and Zhang, Xiangsen and Li, Wenbin and Liu, Xinwang and Han, Junwei},
+  booktitle={Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence},
+  pages={3202--3208},
+  year={2021}
+}

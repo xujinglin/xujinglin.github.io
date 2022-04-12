@@ -1,0 +1,9 @@
+@inproceedings{li2019distribution,
+  title={Distribution consistency based covariance metric networks for few-shot learning},
+  author={Li, Wenbin and Xu, Jinglin and Huo, Jing and Wang, Lei and Gao, Yang and Luo, Jiebo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={8642--8649},
+  year={2019}
+}

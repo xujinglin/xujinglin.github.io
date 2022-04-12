@@ -1,0 +1,7 @@
+@inproceedings{xu2017feature,
+  title={Feature Selection via Scaling Factor Integrated Multi-Class Support Vector Machines.},
+  author={Xu, Jinglin and Nie, Feiping and Han, Junwei},
+  booktitle={IJCAI},
+  pages={3168--3174},
+  year={2017}
+}

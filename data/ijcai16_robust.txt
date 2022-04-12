@@ -1,0 +1,7 @@
+@inproceedings{xu2016robust,
+  title={Robust and sparse fuzzy k-means clustering.},
+  author={Xu, Jinglin and Han, Junwei and Xiong, Kai and Nie, Feiping},
+  booktitle={IJCAI},
+  pages={2224--2230},
+  year={2016}
+}

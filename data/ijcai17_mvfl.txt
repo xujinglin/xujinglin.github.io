@@ -1,0 +1,7 @@
+@inproceedings{xu2017multi,
+  title={Multi-view Feature Learning with Discriminative Regularization.},
+  author={Xu, Jinglin and Han, Junwei and Nie, Feiping},
+  booktitle={IJCAI},
+  pages={3161--3167},
+  year={2017}
+}

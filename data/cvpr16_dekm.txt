@@ -1,0 +1,7 @@
+@inproceedings{xu2016discriminatively,
+  title={Discriminatively embedded k-means for multi-view clustering},
+  author={Xu, Jinglin and Han, Junwei and Nie, Feiping},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={5356--5364},
+  year={2016}
+}

@@ -1,0 +1,9 @@
+@ARTICLE{9063441,
+  author={Han, Junwei and Xu, Jinglin and Nie, Feiping and Li, Xuelong},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Multi-View K-Means Clustering With Adaptive Sparse Memberships and Weight Allocation}, 
+  year={2022},
+  volume={34},
+  number={2},
+  pages={816-827},
+  doi={10.1109/TKDE.2020.2986201}}

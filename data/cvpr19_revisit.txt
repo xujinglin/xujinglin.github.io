@@ -1,0 +1,7 @@
+@inproceedings{li2019revisiting,
+  title={Revisiting local descriptor based image-to-class measure for few-shot learning},
+  author={Li, Wenbin and Wang, Lei and Xu, Jinglin and Huo, Jing and Gao, Yang and Luo, Jiebo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7260--7268},
+  year={2019}
+}
