@@ -1,5 +1,0 @@
-@inproceedings{Xu2022FineDivingAF,
-  title={FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment},
-  author={J. Xu and Yongming Rao and Xumin Yu and Guangyi Chen and Jie Zhou and Jiwen Lu},
-  year={2022}
-}
