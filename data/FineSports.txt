@@ -1,5 +1,8 @@
-@inproceedings{Xu2022FineDivingAF,
-  title={FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment},
-  author={J. Xu and Yongming Rao and Xumin Yu and Guangyi Chen and Jie Zhou and Jiwen Lu},
-  year={2022}
+@InProceedings{Xu_2024_CVPR_finesports,
+    author    = {Xu, Jinglin and Zhao, Guohao and Yin, Sibo and Zhou, Wenhao and Peng, Yuxin},
+    title     = {FineSports: A Multi-person Hierarchical Sports Video Dataset for Fine-grained Action Understanding},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {21773-21782}
 }
