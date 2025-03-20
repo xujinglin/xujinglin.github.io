@@ -1,0 +1,10 @@
+@ARTICLE{10912675,
+  author={Liu, Hongmin and Li, Xueli and Fan, Bin and Xu, Jinglin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={BRTAL: Boundary Refinement Temporal Action Localization via Offset-Driven Diffusion Models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Location awareness;Proposals;Diffusion models;Accuracy;Training;Detectors;Context modeling;Transformers;Noise;Feature extraction;temporal action localization;diffusion model;vision transformers;temporal context modeling},
+  doi={10.1109/TCSVT.2025.3548515}}
